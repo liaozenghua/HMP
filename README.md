@@ -1,4 +1,4 @@
-# Few-shot named entity recognition with hybrid multi-prototype learning
+# Few-shot named entity recognition with hybrid multi-prototype learning (The code and data are being collated and updated, and the official version will be released in this project later.)
 
 This repository contains the open-sourced official implementation of the paper:
 
